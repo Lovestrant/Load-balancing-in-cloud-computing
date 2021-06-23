@@ -1,0 +1,6 @@
+# Load-balancing-in-cloud-computing 
+
+To run it download code, open in your code editor then run the following commands
+
+i) "npm install" to install dependencies
+ii) "node index.js" to run the index.js file.
